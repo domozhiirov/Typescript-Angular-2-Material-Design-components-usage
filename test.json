@@ -1,0 +1,26 @@
+{
+  "name1": {
+    "name": "Vitaly",
+    "phone": "4159927028",
+    "friends": {
+      "a1": {
+        "name": "Test2",
+        "phone": "6507712795"
+      },
+      "a2": {
+        "name": "Test3",
+        "phone": "6507712795",
+        "friends": {
+          "a1": {
+            "name": "Test2",
+            "phone": "6507712795"
+          }
+        }
+      }
+    }
+  },
+  "name2": {
+    "name": "Test1",
+    "phone": "6507712795"
+  }
+}
